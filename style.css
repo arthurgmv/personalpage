@@ -5,6 +5,11 @@ body {
   padding: 0;
 }
 
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
 img {
   width: 200px;
   border-radius: 50%;
@@ -17,7 +22,7 @@ h1 {
 
 p {
   color: #666;
-  width: 450px;
+  width: 500px;
   height: 200px;
   position: fixed;
   top: 60%;
@@ -26,7 +31,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px solid black;
+  
 
 }
 
