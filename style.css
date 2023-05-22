@@ -26,13 +26,14 @@ body {
   }
   
   p {
+    width: 90%;
     color: #666;
     width: 500px;
     height: 200px;
-    position: fixed;
+    position: static;
     top: 60%;
-    left: 50%;
     transform: translate(-50%, -50%);
+    left: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
